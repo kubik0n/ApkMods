@@ -1,0 +1,50 @@
+{
+	"pl.tvn.player": {
+		"versionCode": 938,
+		"versionName": "7.2.0b",
+		"fileIdChomikuj": 8134275216,
+		"fileIdAnonFiles": "F9W7Qba5y6"
+	},
+	"pl.tvn.player.tv": {
+		"versionCode": 284,
+		"versionName": "1.3.7b",
+		"fileIdChomikuj": 8134275232,
+		"fileIdAnonFiles": "HfW2Q2afye"
+	},
+	"pl.polsatgo": {
+		"versionCode": 17,
+		"versionName": "1.3.0",
+		"fileIdChomikuj": 8153328252,
+		"fileIdAnonFiles": "j3E9Kaedyd"
+	},
+	"com.tvp.vodtv.mobile": {
+		"versionCode": 37,
+		"versionName": "1.2.17",
+		"fileIdChomikuj": 8116450016,
+		"fileIdAnonFiles": "VbWeg5Xbx9"
+	},
+	"com.tvp.vodtv.tv": {
+		"versionCode": 27,
+		"versionName": "1.2.13",
+		"fileIdChomikuj": 8116449902,
+		"fileIdAnonFiles": "Z3W5gcX5xe"
+	},
+	"pl.tvp.tvp_sport": {
+		"versionCode": 30115,
+		"versionName": "4.1.1",
+		"fileIdChomikuj": 8163979601,
+		"fileIdAnonFiles": "z9o8V1gcy8"
+	},
+	"pl.tvp.sport.tv": {
+		"versionCode": 8,
+		"versionName": "1.0.6",
+		"fileIdChomikuj": 8163979595,
+		"fileIdAnonFiles": "x7o9V4g0y3"
+	},
+	"pl.videostar": {
+		"versionCode": 172821080,
+		"versionName": "3.61.2-gms",
+		"fileIdChomikuj": 8166687411,
+		"fileIdAnonFiles": "51I8B1hey4"
+	}
+}
